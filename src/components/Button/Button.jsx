@@ -10,5 +10,5 @@ export const Button = ({ handleClick }) => {
 };
 
 Button.propTypes = {
-    handleClick: propTypes.func.isRequired,
+    handleClick: propTypes.func.isRequired
 };
